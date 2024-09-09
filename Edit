@@ -1,0 +1,17 @@
+[33mcommit 217470af8db9488e790593dde4bed95edce92d5a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Murphy <172422360+Zurphyy@users.noreply.github.com>
+Date:   Mon Sep 9 16:47:06 2024 -0700
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 741b02bccca53cbf051f27a444bdbb50331b2ba6[m
+Author: Murphy <172422360+Zurphyy@users.noreply.github.com>
+Date:   Mon Sep 9 16:35:26 2024 -0700
+
+    Add hello_world.txt
+
+[33mcommit 46a5352e2957bf21a024fbcd5d386a7ef8db4b34[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Zurphyy <172422360+Zurphyy@users.noreply.github.com>
+Date:   Mon Sep 9 16:17:04 2024 -0700
+
+    Initial commit
